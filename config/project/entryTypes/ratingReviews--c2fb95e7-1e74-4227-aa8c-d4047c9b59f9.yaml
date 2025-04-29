@@ -1,0 +1,131 @@
+color: emerald
+fieldLayouts:
+  7a4bfa24-f2f2-4f21-851f-93543e8af0c8:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            dateAdded: '2024-11-06T11:44:30+00:00'
+            disabled: false
+            elementCondition: null
+            id: null
+            includeInCards: false
+            inputType: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            providesThumbs: false
+            readonly: false
+            required: true
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: ae3af519-a2b5-4e91-a91a-3cc7d8fd4128
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2024-11-06T12:06:49+00:00'
+            elementCondition: null
+            fieldUid: 6b4b9c25-2523-4f11-94ee-c0d6ef63eae0 # Author Image
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 403a2b4b-84ab-4d20-80a5-6d9acb464953
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2024-11-06T12:07:20+00:00'
+            elementCondition: null
+            fieldUid: 9e5f4051-5fb7-4266-9b16-a2ba63704dbe # Author Name
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: b9fc0f4b-336f-4525-9d2d-be1e98d97e81
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2024-11-06T12:06:49+00:00'
+            elementCondition: null
+            fieldUid: 36dcd8c0-5c8d-4973-aff0-6549948c8135 # Author Designation
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 15c9b598-0e89-4729-9355-7fbf4e65b9f6
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2024-11-06T11:53:22+00:00'
+            elementCondition: null
+            fieldUid: eb0d43f1-1fed-435f-93ce-8e284d0b317f # Star Rating
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 2421269f-c7ec-4242-8e47-7b2eaeb67cd4
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2024-11-06T12:05:12+00:00'
+            elementCondition: null
+            fieldUid: 796547c9-f257-4cd2-bd77-3857328c6f01 # Quote Text
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 2ba94991-d349-4557-bb20-1d3febe9755f
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 94780bf1-8df3-476b-bfc8-11225b16e924
+        userCondition: null
+handle: ratingReviews
+hasTitleField: true
+icon: star
+name: 'Rating & Reviews'
+showSlugField: true
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

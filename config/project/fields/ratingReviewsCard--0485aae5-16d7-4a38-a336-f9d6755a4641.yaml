@@ -1,0 +1,25 @@
+columnSuffix: null
+handle: ratingReviewsCard
+instructions: null
+name: 'Rating & Reviews Card'
+searchable: false
+settings:
+  createButtonLabel: null
+  defaultIndexViewMode: cards
+  entryTypes:
+    -
+      __assoc__:
+        -
+          - uid
+          - c2fb95e7-1e74-4227-aa8c-d4047c9b59f9 # Rating & Reviews
+  includeTableView: false
+  maxEntries: null
+  minEntries: null
+  pageSize: 50
+  propagationKeyFormat: null
+  propagationMethod: all
+  showCardsInGrid: true
+  viewMode: cards
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix

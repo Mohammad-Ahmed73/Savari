@@ -1,0 +1,105 @@
+color: green
+fieldLayouts:
+  66326cda-c15b-485e-8bc5-f07bee3b1a52:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            dateAdded: '2024-11-06T10:04:25+00:00'
+            disabled: false
+            elementCondition: null
+            id: null
+            includeInCards: false
+            inputType: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            providesThumbs: false
+            readonly: false
+            required: true
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: e56d178d-2571-4b0e-9f73-1aba3ecf11e2
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2024-11-09T16:23:31+00:00'
+            elementCondition: null
+            fieldUid: dee0e12a-d0be-4dce-864e-96f853d767f2 # Company Text
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 6615c5b6-2880-4e92-8b13-8621209c08cf
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2024-12-01T07:38:09+00:00'
+            elementCondition: null
+            fieldUid: 760e2bdd-85f4-4c17-868b-b9540591ad69 # Faq Service Entries
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: d4cd65ff-ae1d-417c-84d0-93feb549f98b
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 1aea5e66-ab8e-42bd-90a8-987cef642f09
+        userCondition: null
+      -
+        elementCondition: null
+        elements:
+          -
+            dateAdded: '2024-11-06T10:15:46+00:00'
+            elementCondition: null
+            fieldUid: b8cf975c-8b0e-4f79-968b-ae246d2f8bf1 # Padding
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 1432397c-6ad3-442a-a769-9b09c99f14df
+            userCondition: null
+            warning: null
+            width: 100
+        name: Block
+        uid: 8348931d-7ff1-4633-adb7-f40f000942a9
+        userCondition: null
+handle: faqSection
+hasTitleField: true
+icon: circle-question
+name: FAQ
+showSlugField: true
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

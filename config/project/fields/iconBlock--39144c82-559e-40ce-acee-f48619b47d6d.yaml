@@ -1,0 +1,25 @@
+columnSuffix: null
+handle: iconBlock
+instructions: null
+name: 'Icon Block'
+searchable: false
+settings:
+  createButtonLabel: null
+  defaultIndexViewMode: cards
+  entryTypes:
+    -
+      __assoc__:
+        -
+          - uid
+          - cbf4a0ca-692c-4f05-aeea-8d1e60f824b0 # Icon Block
+  includeTableView: false
+  maxEntries: null
+  minEntries: null
+  pageSize: 50
+  propagationKeyFormat: null
+  propagationMethod: all
+  showCardsInGrid: false
+  viewMode: cards
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix

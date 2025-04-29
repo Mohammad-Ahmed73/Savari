@@ -1,0 +1,7 @@
+enabled: '1'
+handle: root
+name: Root
+settings:
+  folder: '[root]'
+sortOrder: 1
+type: verbb\iconpicker\iconsets\SvgFolder

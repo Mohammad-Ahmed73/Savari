@@ -1,0 +1,25 @@
+columnSuffix: null
+handle: aboutSystemSection
+instructions: null
+name: 'About System Section'
+searchable: false
+settings:
+  createButtonLabel: 'New Tab'
+  defaultIndexViewMode: cards
+  entryTypes:
+    -
+      __assoc__:
+        -
+          - uid
+          - 5d63341b-ad43-4f63-bda4-e3605f46085c # About System Section
+  includeTableView: false
+  maxEntries: null
+  minEntries: null
+  pageSize: 50
+  propagationKeyFormat: null
+  propagationMethod: all
+  showCardsInGrid: false
+  viewMode: cards
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix

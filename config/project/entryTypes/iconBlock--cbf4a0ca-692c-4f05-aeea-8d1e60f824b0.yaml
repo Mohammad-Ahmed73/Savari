@@ -1,0 +1,53 @@
+color: yellow
+fieldLayouts:
+  67514b79-b406-4e7d-9609-efe490532e1b:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            dateAdded: '2025-04-07T06:47:23+00:00'
+            elementCondition: null
+            fieldUid: 4060ca93-4d55-48ba-be72-11fd85105282 # Image
+            handle: iconImage
+            includeInCards: false
+            instructions: null
+            label: 'Icon Image'
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 55ef1946-635c-459a-98b3-47930643f06a
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2025-04-07T06:47:23+00:00'
+            elementCondition: null
+            fieldUid: dee0e12a-d0be-4dce-864e-96f853d767f2 # Company Text
+            handle: iconLabel
+            includeInCards: false
+            instructions: null
+            label: 'Icon Label'
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 01abe600-e238-4905-aa54-6d93c2bbd147
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: ac27301c-b639-44f8-b223-900f81f20a71
+        userCondition: null
+handle: iconBlock
+hasTitleField: false
+icon: apartment
+name: 'Icon Block'
+showSlugField: true
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

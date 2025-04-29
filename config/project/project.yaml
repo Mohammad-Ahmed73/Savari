@@ -1,0 +1,137 @@
+dateModified: 1742811508
+email:
+  fromEmail: $CRAFT_SYSTEM_EMAIL
+  fromName: $CRAFT_SITE_NAME
+  replyToEmail: null
+  template: _emails/system.twig
+  transportSettings:
+    apiKey: $MAILGUN_API_KEY
+    domain: $MAILGUN_DOMAIN
+    endpoint: $MAILGUN_ENDPOINT
+  transportType: craft\mailgun\MailgunAdapter
+fs:
+  local:
+    hasUrls: true
+    name: Local
+    settings:
+      path: $FILESYSTEM_LOCAL_BASE_PATH
+    type: craft\fs\Local
+    url: $FILESYSTEM_LOCAL_BASE_URL
+  servd:
+    hasUrls: true
+    name: Servd
+    settings:
+      cdnUrlPattern: ''
+      customSubfolder: ''
+      makeUploadsPublic: true
+      optimisePrefix: ''
+      optimiseUrlPattern: ''
+      projectSlug: ''
+      securityKey: ''
+      subfolder: /local/
+    type: servd\AssetStorage\AssetsPlatform\Fs
+    url: 'https://cdn2.assets-servd.host/'
+meta:
+  __names__:
+    0b199c11-0b79-4e4b-b931-f9c85e23a667: 'Link / Button' # Link / Button
+    1fce5cc2-f2a0-49cf-8fd3-346bd3d78cd4: Root # Root
+    5cbe08b7-b4bd-4a6b-be41-de9647b5eb19: Images # Images
+    6d792fe4-471d-48ed-bc45-5fe112ba7e46: Image # Image
+    7b662bcd-ea91-4c91-86ce-c60348c664d1: Pages # Pages
+    7bf65ac5-9169-4bf8-8825-65fadd566946: New # New
+    7f0dd947-99d8-4456-93f3-4ce4f6162a3f: 'Rich Text - Simple' # Rich Text - Simple
+    8b610edc-f2dd-46b6-9597-96fcbb6d302a: Simple # Simple
+    08c386f4-5a41-4c9f-8282-f6785af06bfc: Savari # Savari
+    19d6d897-1cde-4d59-914a-2bf8a23e7916: 'Public Schema' # Public Schema
+    42eea3c2-2f84-43d8-a495-647d4994a8d5: 'Text - Multiline' # Text - Multiline
+    453f9294-407d-405a-b73b-d5b63aec2eaa: SEO # SEO
+    502c0610-e74d-4359-8524-5652307ada64: Padding # Padding
+    b9ac68e1-d9f1-4007-843f-fde1e9f4921b: Files # Files
+    bdf6317d-0df7-449f-a937-a1a274ffb106: 'Page - Blocks' # Page - Blocks
+    cb6226c7-5901-41ed-ba28-a78b9504a3df: Images # Images
+    d99bf7af-1eb1-4b77-814e-624eeec1a0e3: $CRAFT_SITE_NAME # $CRAFT_SITE_NAME
+    da9f3d8e-5ba9-4eb9-a423-6ea09ddaed21: Form # Form
+    f3e544b8-88bf-4761-8df2-d767fa1502b7: Text # Text
+    fb0420bb-0fbf-46d2-afd2-f7992c60c886: 'Contact Form' # Contact Form
+plugins:
+  blitz:
+    edition: standard
+    enabled: true
+    licenseKey: XO8E4093H0FPPEWU31U2S5HZ
+    schemaVersion: 5.9.0
+  ckeditor:
+    edition: standard
+    enabled: true
+    schemaVersion: 3.0.0.0
+  consume:
+    edition: standard
+    enabled: true
+    licenseKey: 52CDVX2A7287LIQVXQP42LMP
+    schemaVersion: 1.0.0
+  formie:
+    edition: standard
+    enabled: true
+    licenseKey: OMBPJ4OA1BIW3HI7IWXHBC3R
+    schemaVersion: 3.4.8
+  hyper:
+    edition: standard
+    enabled: true
+    licenseKey: ZRM3T4RVBQU9IVMMR1SF4RR9
+    schemaVersion: 1.0.0
+  icon-picker:
+    edition: standard
+    enabled: true
+    licenseKey: JBCH9RMYAZCESSSPFQPM6HMD
+    schemaVersion: 1.2.3
+  imager-x:
+    edition: lite
+    enabled: true
+    licenseKey: 6MY59ANGFCG7H9OWDQTCE0PK
+    schemaVersion: 4.0.0
+  mailgun:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+  minify:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+  seomatic:
+    edition: standard
+    enabled: true
+    licenseKey: 795D0IRXMO0BEU95Z64ILX03
+    schemaVersion: 3.0.12
+  servd-asset-storage:
+    edition: standard
+    enabled: true
+    schemaVersion: 3.0.0
+    settings:
+      adjustFeedmeLogs: ''
+      assetsEnvironment: $SERVD_ASSET_ENVIRONMENT
+      assetsEnvironmentOverwrite: ''
+      cacheClearMode: full
+      clearCachesOnSave: never
+      disableDynamic: ''
+      disableTransforms: ''
+      fsMapsEnabled: ''
+      imageAutoConversion: webp
+      injectCors: '1'
+      projectSlug: $SERVD_PROJECT_SLUG
+      securityKey: $SERVD_SECURITY_KEY
+      suppressWarnings: '1'
+      useLocalVolumes: false
+  sprig:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.1
+  vite:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+system:
+  edition: pro
+  live: true
+  name: $CRAFT_SITE_NAME
+  retryDuration: null
+  schemaVersion: 5.6.0.2
+  timeZone: America/Los_Angeles

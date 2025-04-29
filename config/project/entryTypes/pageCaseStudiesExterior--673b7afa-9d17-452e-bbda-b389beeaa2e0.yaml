@@ -1,0 +1,105 @@
+color: null
+fieldLayouts:
+  ae007417-b697-46f1-947f-e46728ef8e01:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            dateAdded: '2025-02-06T05:09:00+00:00'
+            disabled: false
+            elementCondition: null
+            id: null
+            includeInCards: false
+            inputType: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            providesThumbs: false
+            readonly: false
+            required: true
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: 2b561c9a-e2c6-4535-a5bd-3c9c41c8605f
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2025-02-06T05:09:00+00:00'
+            elementCondition: null
+            fieldUid: e47e78ea-7cd0-4cc6-988b-f68b3801cd66 # Entry Title
+            handle: heading
+            includeInCards: false
+            instructions: null
+            label: Heading
+            providesThumbs: false
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 2ee9b801-1b4b-48c8-a952-c5d17d338a6a
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2025-02-06T05:09:00+00:00'
+            elementCondition: null
+            fieldUid: 3ae65c29-e9b0-4b1c-a365-d56e5b103f40 # Button
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 0df03409-83dd-4dce-a9f2-2a834f7bf729
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 9c94fde3-958d-4205-8da6-146d8a2d93c2
+        userCondition: null
+      -
+        elementCondition: null
+        elements:
+          -
+            dateAdded: '2025-02-06T05:09:00+00:00'
+            elementCondition: null
+            fieldUid: 787967f0-9a61-4502-9ec1-b413d02b9279 # Meta & Social Data
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 14a7c559-0cd7-42c4-b36c-6ff766e3a88d
+            userCondition: null
+            warning: null
+            width: 100
+        name: 'Meta & Social Data'
+        uid: 7598b931-9561-48f0-82f6-84228c16936f
+        userCondition: null
+handle: pageCaseStudiesExterior
+hasTitleField: true
+icon: book
+name: 'Page - Case Studies Exterior'
+showSlugField: true
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

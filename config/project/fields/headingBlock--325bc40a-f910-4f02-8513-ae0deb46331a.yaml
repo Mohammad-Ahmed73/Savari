@@ -1,0 +1,25 @@
+columnSuffix: null
+handle: headingBlock
+instructions: null
+name: 'Heading Block'
+searchable: false
+settings:
+  createButtonLabel: null
+  defaultIndexViewMode: cards
+  entryTypes:
+    -
+      __assoc__:
+        -
+          - uid
+          - 37187e07-1c4d-4d28-8c15-e1652b3a7173 # Heading Block
+  includeTableView: false
+  maxEntries: 1
+  minEntries: null
+  pageSize: 50
+  propagationKeyFormat: null
+  propagationMethod: all
+  showCardsInGrid: false
+  viewMode: cards
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix

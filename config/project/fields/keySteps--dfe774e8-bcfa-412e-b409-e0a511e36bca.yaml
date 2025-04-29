@@ -1,0 +1,25 @@
+columnSuffix: null
+handle: keySteps
+instructions: null
+name: 'Key Steps'
+searchable: false
+settings:
+  createButtonLabel: 'New Advantage'
+  defaultIndexViewMode: cards
+  entryTypes:
+    -
+      __assoc__:
+        -
+          - uid
+          - 3d13e323-ed66-408f-861d-b3cf95b42f00 # Key advantage
+  includeTableView: false
+  maxEntries: null
+  minEntries: null
+  pageSize: 50
+  propagationKeyFormat: null
+  propagationMethod: all
+  showCardsInGrid: false
+  viewMode: cards
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix

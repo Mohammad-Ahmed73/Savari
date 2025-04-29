@@ -1,0 +1,184 @@
+color: yellow
+fieldLayouts:
+  458f8106-08e8-43c0-b26a-815ad4c03b88:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            dateAdded: '2025-02-06T05:09:00+00:00'
+            disabled: false
+            elementCondition: null
+            id: null
+            includeInCards: false
+            inputType: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            providesThumbs: false
+            readonly: false
+            required: true
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: bec8a31b-c66b-4f6d-a411-7f6c981fd684
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2025-02-06T05:09:00+00:00'
+            elementCondition: null
+            fieldUid: 32972c85-b85e-45de-a6a1-d58a643d3e81 # Heading
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: b7c3e1b5-d50f-46f2-9e39-3093188927f5
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2025-02-06T05:09:00+00:00'
+            elementCondition: null
+            type: craft\fieldlayoutelements\HorizontalRule
+            uid: 9ee43636-ff54-451a-a04f-d026e2be4d03
+            userCondition: null
+          -
+            dateAdded: '2025-02-06T05:09:00+00:00'
+            dismissible: false
+            elementCondition: null
+            style: tip
+            tip: 'Leave FAQ content blank to display FAQ content set in **Globals**'
+            type: craft\fieldlayoutelements\Tip
+            uid: 098ae64f-049e-482f-9527-ef592f59bb08
+            userCondition: null
+          -
+            dateAdded: '2025-02-06T05:09:00+00:00'
+            elementCondition: null
+            fieldUid: 89e258ef-b030-465c-917d-eaaf04e5ab9e # Rich Text - Simple
+            handle: faqText
+            includeInCards: false
+            instructions: null
+            label: 'FAQ Text'
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: ff81cc69-dd1b-4a6f-a75f-8dac9f0bdb39
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2025-02-06T05:09:00+00:00'
+            elementCondition: null
+            fieldUid: 65101654-dcea-4e79-9016-9eba89748445 # FAQ Profile Image
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 35c15b93-9d3a-48c4-8331-16bd6c148882
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2025-02-06T05:09:00+00:00'
+            elementCondition: null
+            fieldUid: dee0e12a-d0be-4dce-864e-96f853d767f2 # Plain Text
+            handle: faqProfileName
+            includeInCards: false
+            instructions: null
+            label: 'FAQ Profile Name'
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: dfdb925c-9a34-40c0-a636-23cefdc1a3d7
+            userCondition: null
+            warning: null
+            width: 50
+          -
+            dateAdded: '2025-02-06T05:09:00+00:00'
+            elementCondition: null
+            fieldUid: dee0e12a-d0be-4dce-864e-96f853d767f2 # Plain Text
+            handle: faqProfileTitle
+            includeInCards: false
+            instructions: null
+            label: 'FAQ Profile Title'
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: ca0bea38-8fda-46ab-a04a-10aaaaccafb7
+            userCondition: null
+            warning: null
+            width: 50
+          -
+            dateAdded: '2025-02-06T05:09:00+00:00'
+            elementCondition: null
+            fieldUid: 4ba88fea-0529-4641-8cb3-08d825a4faf1 # FAQ Entries
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: b252f634-361c-4757-9cb3-705b9bb4475d
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 1889d859-bab4-4832-9c0c-e13587952c14
+        userCondition: null
+      -
+        elementCondition: null
+        elements:
+          -
+            dateAdded: '2025-02-06T05:09:00+00:00'
+            elementCondition: null
+            fieldUid: b8cf975c-8b0e-4f79-968b-ae246d2f8bf1 # Padding
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: a1af32e9-6793-49ad-b56f-25a601b6ea0b
+            userCondition: null
+            warning: null
+            width: 100
+        name: 'Block Settings'
+        uid: d08b27da-3855-4306-8466-86316421ae9b
+        userCondition: null
+handle: textFaq
+hasTitleField: false
+icon: question
+name: 'Text + FAQ'
+showSlugField: false
+showStatusField: false
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

@@ -1,0 +1,53 @@
+color: sky
+fieldLayouts:
+  b8d6043f-f6d6-4868-a2a1-a7ac13452ea5:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            dateAdded: '2025-04-07T06:46:12+00:00'
+            elementCondition: null
+            fieldUid: dee0e12a-d0be-4dce-864e-96f853d767f2 # Company Text
+            handle: heading
+            includeInCards: false
+            instructions: null
+            label: Heading
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: c33746c8-a093-4c5b-8818-1554f28b9e6e
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2025-04-07T06:46:12+00:00'
+            elementCondition: null
+            fieldUid: 86b0adf0-5bb4-4cc3-b597-b32bd746081e # Rich Text - Full
+            handle: description
+            includeInCards: false
+            instructions: null
+            label: Description
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: bfa37a06-203f-40b3-844b-fcc88f6e014c
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 800700a5-2d91-4523-82bd-524b501c128d
+        userCondition: null
+handle: headingBlock
+hasTitleField: false
+icon: aperture
+name: 'Heading Block'
+showSlugField: true
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

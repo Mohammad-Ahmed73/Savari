@@ -1,0 +1,89 @@
+color: blue
+fieldLayouts:
+  7ffb3b7c-24ad-47ce-b541-b202c1890498:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            dateAdded: '2024-11-13T09:31:23+00:00'
+            disabled: false
+            elementCondition: null
+            id: null
+            includeInCards: false
+            inputType: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            providesThumbs: false
+            readonly: false
+            required: true
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: 4f19152f-080a-47e8-b8ce-0380f3171073
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2024-11-13T09:46:13+00:00'
+            elementCondition: null
+            fieldUid: fd9de71f-2359-42e6-a1ae-9cd9a96a905c # About Us Text
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 6a567426-ce34-428b-82c5-eb3f250f7175
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2024-11-13T10:25:46+00:00'
+            elementCondition: null
+            type: craft\fieldlayoutelements\HorizontalRule
+            uid: 07049859-65ef-480b-9cb2-f2bd02294b6f
+            userCondition: null
+          -
+            dateAdded: '2024-11-13T10:25:46+00:00'
+            elementCondition: null
+            fieldUid: 46c2f4e6-a65a-4cbd-9962-ad4f8aabd801 # choose us cards
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: a14682aa-9e9d-4dcc-9d2b-fa8026ed85bf
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: b62c83b5-b447-490e-8192-c83c8bebe914
+        userCondition: null
+handle: chooseUs
+hasTitleField: true
+icon: users
+name: 'choose Us'
+showSlugField: true
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

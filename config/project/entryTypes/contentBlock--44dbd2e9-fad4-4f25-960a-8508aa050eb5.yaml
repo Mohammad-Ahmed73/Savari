@@ -1,0 +1,101 @@
+color: yellow
+fieldLayouts:
+  2328ab3f-0af7-43c6-a4b1-2a1d249f03d9:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            dateAdded: '2025-04-07T06:53:11+00:00'
+            elementCondition: null
+            fieldUid: dee0e12a-d0be-4dce-864e-96f853d767f2 # Company Text
+            handle: aboutTitle
+            includeInCards: false
+            instructions: null
+            label: Title
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: bd3ebea7-31ec-4d86-b9af-b3a86e34f697
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2025-04-07T06:53:11+00:00'
+            elementCondition: null
+            fieldUid: 86b0adf0-5bb4-4cc3-b597-b32bd746081e # Rich Text - Full
+            handle: description
+            includeInCards: false
+            instructions: null
+            label: Description
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 110af920-1b33-4b85-bd02-d36b05a63abf
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2025-04-07T06:53:11+00:00'
+            elementCondition: null
+            fieldUid: 4060ca93-4d55-48ba-be72-11fd85105282 # Image
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 91fb8484-cb67-4ab3-bbc2-8432f1f1ec80
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2025-04-07T07:07:31+00:00'
+            elementCondition: null
+            fieldUid: 4887e6be-5801-496f-ba13-92af43bfd675 # Icon + Heading + Description
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: d8d1a761-3d48-4fec-9438-2e7c11e29ea5
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2025-04-07T06:53:11+00:00'
+            elementCondition: null
+            fieldUid: 3ae65c29-e9b0-4b1c-a365-d56e5b103f40 # Button
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: b0bb5129-40c7-41b0-a32c-6386afa0768e
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: f8305821-0916-46a7-842e-4b1084949046
+        userCondition: null
+handle: contentBlock
+hasTitleField: false
+icon: archway
+name: 'Content Block'
+showSlugField: true
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

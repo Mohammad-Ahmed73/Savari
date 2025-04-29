@@ -1,0 +1,83 @@
+color: red
+fieldLayouts:
+  b48e2d67-a7d8-417f-8fa6-cd45fe82ba16:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            dateAdded: '2024-11-13T10:05:35+00:00'
+            disabled: false
+            elementCondition: null
+            id: null
+            includeInCards: false
+            inputType: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            providesThumbs: false
+            readonly: false
+            required: true
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: 739ca706-9459-4b6c-9123-9cee6392272b
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2024-11-13T10:07:17+00:00'
+            elementCondition: null
+            fieldUid: ff57ce95-144f-4c6f-9d6d-f75daca3bf74 # choose Us number
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: dded4444-ba78-4b2c-a122-023653c7662c
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2024-11-13T10:07:17+00:00'
+            elementCondition: null
+            fieldUid: 3620aee4-a68e-4e66-92aa-2e8cd6c88d75 # Choose us text
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: ef67d627-d334-4052-bf82-cc23ccf9001e
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 3c4673a4-d529-42c9-a4fb-bfa6102a3340
+        userCondition: null
+handle: chooseUsCards
+hasTitleField: true
+icon: abacus
+name: 'choose us cards'
+showSlugField: true
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

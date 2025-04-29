@@ -1,0 +1,181 @@
+color: yellow
+fieldLayouts:
+  0ac3ef64-0c9b-4e42-9507-1b181725d0b1:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            dateAdded: '2024-08-07T13:30:43+00:00'
+            disabled: false
+            elementCondition: null
+            id: null
+            includeInCards: false
+            inputType: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            providesThumbs: false
+            readonly: false
+            required: true
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: 7859526e-66ff-4f2e-a4e6-acd9dd29631e
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2024-08-07T13:36:48+00:00'
+            elementCondition: null
+            fieldUid: b85568a4-73fb-48e5-9348-39aba103ded5 # Hero Quote Title
+            handle: heading
+            includeInCards: false
+            instructions: null
+            label: Heading
+            providesThumbs: false
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: db00e165-0eca-49fa-b65f-e660e4fda637
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2024-08-07T13:36:48+00:00'
+            elementCondition: null
+            fieldUid: dee0e12a-d0be-4dce-864e-96f853d767f2 # Plain Text
+            handle: text
+            includeInCards: false
+            instructions: null
+            label: Text
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 88b7b7d9-f026-462f-a7a4-e805b7533eb8
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2024-08-07T13:36:48+00:00'
+            elementCondition: null
+            type: craft\fieldlayoutelements\HorizontalRule
+            uid: 5b9d73f6-f62a-4a88-806d-afb95feb349a
+            userCondition: null
+          -
+            dateAdded: '2024-08-07T13:36:48+00:00'
+            elementCondition: null
+            fieldUid: 4060ca93-4d55-48ba-be72-11fd85105282 # Assets - Image
+            handle: image
+            includeInCards: false
+            instructions: null
+            label: Image
+            providesThumbs: false
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 7fe79e72-6897-41cd-9397-77daa14d18d6
+            userCondition: null
+            warning: null
+            width: 50
+          -
+            dateAdded: '2024-08-07T13:36:48+00:00'
+            elementCondition: null
+            fieldUid: 25805867-ef92-410d-965e-77956fadaf44 # URL Link
+            handle: videoUrl
+            includeInCards: false
+            instructions: 'Add a url to a Vimeo url to play background video.'
+            label: 'Video URL'
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: ffa4befd-b3e2-43d5-b09a-00c8b6c5f1ef
+            userCondition: null
+            warning: null
+            width: 50
+          -
+            dateAdded: '2024-08-07T13:36:48+00:00'
+            elementCondition: null
+            type: craft\fieldlayoutelements\HorizontalRule
+            uid: 0da759e4-614f-49d9-830a-3836deedec65
+            userCondition: null
+          -
+            dateAdded: '2024-08-07T13:36:48+00:00'
+            elementCondition: null
+            fieldUid: dee0e12a-d0be-4dce-864e-96f853d767f2 # Plain Text
+            handle: ctaText
+            includeInCards: false
+            instructions: null
+            label: 'CTA Text'
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: d6aba898-8c5f-468a-98fa-51fc1d49ea5f
+            userCondition: null
+            warning: null
+            width: 50
+          -
+            dateAdded: '2024-08-07T13:36:48+00:00'
+            elementCondition: null
+            fieldUid: 3ae65c29-e9b0-4b1c-a365-d56e5b103f40 # Button
+            handle: ctaLink
+            includeInCards: false
+            instructions: null
+            label: 'CTA Link'
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: e5d3520a-f412-41fd-9019-1d32b5849176
+            userCondition: null
+            warning: null
+            width: 50
+          -
+            dateAdded: '2024-08-07T13:36:48+00:00'
+            elementCondition: null
+            type: craft\fieldlayoutelements\HorizontalRule
+            uid: e053035d-fb1b-4f20-bd63-ae43542bdef2
+            userCondition: null
+          -
+            dateAdded: '2024-08-07T13:36:48+00:00'
+            elementCondition: null
+            fieldUid: eb7ba0c1-3129-4cdf-ac5b-c3b67462601a # Info Slider
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 3217a825-bd10-4e12-a1a5-503d1ff5c198
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 4d8dfc61-dcc8-4df2-9acf-ccb6e4651579
+        userCondition: null
+handle: heroQuote
+hasTitleField: false
+icon: dollar-sign
+name: 'Hero - Quote'
+showSlugField: false
+showStatusField: false
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site
